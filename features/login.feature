@@ -1,8 +1,7 @@
 Feature: User can login
-
-As a user
-In order to access my account
-I should be able to login
+    As a user
+    In order to access my account
+    I should be able to login
 
 Background:
     Given I visit the landing page
